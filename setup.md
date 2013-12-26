@@ -6,3 +6,6 @@ Shoulda, add rspec-rails and shoulda-matchers to the project's Gemfile
   gem 'rspec-rails'
   gem 'shoulda-matchers'
   end  
+
+Initialize Rspec
+  rails generate rspec:install  (creates the spec folder)  
